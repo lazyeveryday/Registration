@@ -1,0 +1,95 @@
+#katawan{
+	background-color: #edece8;
+}
+#first{
+	background-color: #034488;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+h1.title{
+	text-align: center-left;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 2.5em;
+	color: #fffcf6;
+}
+.book{
+	height: 100px;
+	width: 100px;
+	position: right;
+}
+#second{
+	font-family: 'Lato', sans-serif;
+	background-color: #ccdde8;
+	position: center;
+	font-size: 200%;
+	border: none;
+	margin: 10px;
+	padding:10px;
+}
+input.username{
+	width:50%;
+	height: 30px;
+}
+input.password{
+	width: 51%;
+	height: 30px;
+}
+input.username1{
+	width: 100%;
+	height: 30px;
+}
+input.password1{
+	width: 100%;
+	height: 30px;
+}
+
+input.email{
+	width: 100%;
+	height: 30px;
+}
+input.confirm{
+	width: 100%;
+	height: 30px;
+}
+input.login{
+	background-color:#fffcf6;
+	position: absolute;
+	border-radius: 12px;
+	width: 10em;  height: 3em;
+}
+#third{
+	font-family: 'Lato', sans-serif;
+	background-color: none;
+	text-align: left;
+	font-size: 80%;
+	border: none;
+	margin: 10px;
+}
+.register{
+	width: 95%;
+	height: 60%;
+}
+.titulo{
+	text-align: center;
+}
+.registers{
+	background-color:#fffcf6;
+	position: absolute;
+	border-radius: 12px;
+	width: 10em;  height: 3em;
+}
+.user{
+	float:left;
+	width: 50px;
+	height: 50px
+}
+.key{
+	float:left;
+	width: 50px;
+	height: 50px
+}
+
+
+
